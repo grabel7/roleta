@@ -10,4 +10,5 @@ Apenas abra o arquivo .py dentro da pasta que ele irá utilizar das sub-pastas p
 
 # Funcionamento
 ![Screenshot_79](https://user-images.githubusercontent.com/113086023/212007593-a5348cbf-fc00-43fa-8b13-e9346d671f35.png)
+
  Como visto no exemplo acima, o código irá pedir para o usuário qual a opção desejada. Após inserir a opção, você será questionado quanto as palavras que quer inserir, logo após, verá o resultado escolhido pela biblioteca Random, nativa do Python.
